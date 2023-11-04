@@ -8,3 +8,5 @@
   - Blender, 3DS Max, Maya
   - FL Studio, LMMS
   - Krita (2D animations), Clip Studio Paint
+
+[![An image of @tejasnair9977's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejasnair9977)](https://holopin.io/@tejasnair9977)
